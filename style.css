@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+#loading, #dloading {
+	display:none;
+	font-size:25px;
+}
+
+#upload {
+	float: left;
+	margin-right: 100px;
+	background: #C9C1C1;
+	height: 500px;
+	width: 250px;
+}
+
+#retrieve {
+	float: left;
+	margin-left: 100px;
+	background: #C9C1C1;
+	height: 500px;
+	width: 250px;
+}
+
+h3 {
+	text-align: center;
+	color: #F2EBEB;
+}
+
+#image_show, #image_preview {
+	margin-left: 25px;
+	height: 225px;
+	width: 225px;
+}
